@@ -1,3 +1,4 @@
+<img width="1207" height="528" alt="Screenshot 2026-05-25 020351" src="https://github.com/user-attachments/assets/3e4e4804-8add-438b-971a-aabfcf3b197d" />
 
 # Target CRM – Complaint Management Chatbot
 
@@ -186,3 +187,4 @@ Check your key at [console.groq.com](https://console.groq.com) and confirm the s
 <img width="1155" height="308" alt="Screenshot 2026-05-23 223956" src="https://github.com/user-attachments/assets/577c1249-f1b8-4b80-81d7-47e51faf6ffd" />
 <img width="1326" height="291" alt="Screenshot 2026-05-23 223934" src="https://github.com/user-attachments/assets/6cd2dc41-4573-4edb-9ca1-c337c1e2d152" />
 <img width="1146" height="598" alt="Screenshot 2026-05-23 224132" src="https://github.com/user-attachments/assets/325af1a2-481f-4504-9026-35b17d12a46e" />
+<img width="1207" height="528" alt="Screenshot 2026-05-25 020351" src="https://github.com/user-attachments/assets/93bbe0b7-d460-45f5-874a-b86f2b887efe" />
