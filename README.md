@@ -1,5 +1,3 @@
-<img width="1207" height="528" alt="Screenshot 2026-05-25 020351" src="https://github.com/user-attachments/assets/3e4e4804-8add-438b-971a-aabfcf3b197d" />
-
 # Target CRM – Complaint Management Chatbot
 
 An AI-powered chatbot that automates customer complaint handling for **Target Superstore**. Built with **LangGraph**, **LangChain Tools**, and **Groq LLM**, the agent can search existing complaints and register new ones through natural conversation — eliminating manual lookups and data entry.
