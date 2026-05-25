@@ -1,3 +1,4 @@
+
 # Target CRM – Complaint Management Chatbot
 
 An AI-powered chatbot that automates customer complaint handling for **Target Superstore**. Built with **LangGraph**, **LangChain Tools**, and **Groq LLM**, the agent can search existing complaints and register new ones through natural conversation — eliminating manual lookups and data entry.
@@ -174,3 +175,14 @@ Confirm `Target_crm.db` exists in the project root and is writable. Run `db_help
 **API key issues**
 
 Check your key at [console.groq.com](https://console.groq.com) and confirm the selected model is available on your plan.
+
+
+
+
+
+<img width="1017" height="222" alt="Screenshot 2026-05-23 224033" src="https://github.com/user-attachments/assets/10fdc895-afc3-4724-830b-99f86c088c77" />
+<img width="1173" height="263" alt="Screenshot 2026-05-23 224021" src="https://github.com/user-attachments/assets/8ac0e5b9-0c01-48bb-b69d-68ec5afc060f" />
+<img width="1206" height="252" alt="Screenshot 2026-05-23 224006" src="https://github.com/user-attachments/assets/d73f540e-6b57-4866-b62c-41593c1bddf2" />
+<img width="1155" height="308" alt="Screenshot 2026-05-23 223956" src="https://github.com/user-attachments/assets/577c1249-f1b8-4b80-81d7-47e51faf6ffd" />
+<img width="1326" height="291" alt="Screenshot 2026-05-23 223934" src="https://github.com/user-attachments/assets/6cd2dc41-4573-4edb-9ca1-c337c1e2d152" />
+<img width="1146" height="598" alt="Screenshot 2026-05-23 224132" src="https://github.com/user-attachments/assets/325af1a2-481f-4504-9026-35b17d12a46e" />
